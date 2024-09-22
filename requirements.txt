@@ -1,0 +1,9 @@
+langchain
+langchain_openai
+langchain_community
+google-search-results
+numexpr
+pypdf
+faiss-cpu
+streamlit
+python-dotenv
